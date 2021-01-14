@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+Version 0.3.4 *(13 January, 2021)*
+------------------------------------
+* Add support to configure for EU datacenter.
+
 Version 0.3.2 *(03 September, 2020)*
 ------------------------------------
 * Revert to Analytics v3, but allow newer revisions.
